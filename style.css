@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+
+        body {
+            background-color: rgba(245, 222, 179, 0.486);
+            text-align: center;
+        }
+
+        p {
+            text-align: center;
+        }
+
+        table {
+            margin-left: auto;
+            margin-right: auto;
+            border-collapse: collapse;
+        }
+
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            border-radius: 10px;
+        }
+        img#ft {
+            max-width: 70%;
+            margin-top: 5%;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 2em;
+        }
+
+        #ft {
+            font-weight: bold;
+            font-size: small;
+        }
